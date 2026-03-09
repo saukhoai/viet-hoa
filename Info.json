@@ -1,10 +1,7 @@
-// FileName: info.json
-// FilePath: viet-hoa/info.json
-// Version: 1.2 - Sửa lỗi cú pháp để fix "Get mod info failed"
 {
   "Name": "NaoNhi",
   "DisplayName": "Việt Nam",
-  "GameVersion": 1.2,
+  "GameVersion": 1.16,
   "Version": 1.0,
   "Desc": "Tac Gia: Share_QCBH_Mods",
   "Author": "Share_QCBH_Mods",
