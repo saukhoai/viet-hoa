@@ -1,1 +1,19 @@
-{"Name":"NaoNhi","DisplayName":"Việt Nam","GameVersion":1.2,"Version":1.0,"Desc":"Tác Giả: Share_QCBH_Mods","Author":"Share_QCBH_Mods","UIPackage":null,"ID":"99999999","Flag":-1761330197,"Tags":["Language","ExcludeRealmsHeaven","Non-Chinese"],"IncreasedDesc":"Bản dịch dành cho android bản quyền","IsInsideCreat":false,"Previews":[],"ParentModInfo":null}
+// FileName: info.json
+// FilePath: viet-hoa/info.json
+// Version: 1.2 - Sửa lỗi cú pháp để fix "Get mod info failed"
+{
+  "Name": "NaoNhi",
+  "DisplayName": "Việt Nam",
+  "GameVersion": 1.2,
+  "Version": 1.0,
+  "Desc": "Tac Gia: Share_QCBH_Mods",
+  "Author": "Share_QCBH_Mods",
+  "UIPackage": null,
+  "ID": "99999999",
+  "Flag": -1761330197,
+  "Tags": ["Language", "ExcludeRealmsHeaven", "Non-Chinese"],
+  "IncreasedDesc": "Ban dich danh cho android ban quyen",
+  "IsInsideCreat": false,
+  "Previews": [],
+  "ParentModInfo": null
+}
